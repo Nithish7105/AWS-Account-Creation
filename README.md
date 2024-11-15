@@ -31,12 +31,12 @@ Review and Create IAM User
 ### REG NUMBER: 212223040134
 ### NAME: NITHISH KUMAR.B
 1. Root user:
-![alt text](image.png)
-![alt text](image-1.png)
+  ![Screenshot 2024-11-15 101754](https://github.com/user-attachments/assets/45d846ff-81da-4939-85ec-240a56c7092a)
+ 
 
-2. IAM user:
-![alt text](image-2.png)
-![alt text](image-3.png)
+3. IAM user:
+ ![Screenshot 2024-11-15 101810](https://github.com/user-attachments/assets/ad0b4514-9c80-4f4d-9526-b0c1452f3be2)
+
  
 ## RESULT:
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
